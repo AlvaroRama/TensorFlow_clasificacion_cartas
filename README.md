@@ -1,4 +1,4 @@
-Creacion de un modelo para la clasificación de cartas de poker.
+Creacion de un modelo con Tensor Flow para la clasificación de cartas de poker.
 
 Link al repositorio:
 
