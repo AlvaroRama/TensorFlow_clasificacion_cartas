@@ -3,3 +3,8 @@ Memoria_PEC1AP_AlvaroRama.pdf
 .gitattributes
 Otros/
 dataset/
+kerastuner/
+kerastuner_1ensayo/
+tensorboard_logs/
+tensorboard_logs_1ensayo/
+Test_External_images_1ensayo/
